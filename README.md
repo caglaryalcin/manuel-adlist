@@ -1,4 +1,4 @@
-# Block Advertisement & Tracker List
+# Block Advertisement & Tracker Url List
 
-List of ads and trackers that I follow manually on ios..
+List of ads and trackers url's that I follow manually on ios..
 You can use with adguard custom dns.
