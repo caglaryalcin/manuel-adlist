@@ -23,3 +23,4 @@
 ||ads.yahoo.com^
 ||an.yandex.ru^
 ||sitelabweb.com^
+||mopub.com^
