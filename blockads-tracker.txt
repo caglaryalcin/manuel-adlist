@@ -1,11 +1,7 @@
-||gelirartisi.com^
-||googletagmanager.com^
 ||adservice.google.com^
 ||googleusercontent.com^
 ||huobi.com^
 ||cookiepro.com^
 ||onetrust.com^
-||176.237.41.154^
 ||efilli.com^
 ||rek.izlesene.com^
-||mopub.com^
